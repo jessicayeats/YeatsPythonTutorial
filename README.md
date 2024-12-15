@@ -13,7 +13,7 @@ Find (or think of) a dataset (or other data source) you want to programmatically
 >>I am learning Python and Visual Studio. I have not coded before.  This is my Operatin system: [ENTER YOUR OS].  Can you help me get started?
 
 
-## Step 3: Download & Install Visual Studio Code 
+## Step 3: Download & Install Visual Studio Code  - you will use VS Code for everything - this is your "IDE"
 * [Download VS Code](https://code.visualstudio.com/) based on your Operating System. If prompted, make sure to select the option to add VS Code to your PATH (so you can open it from the command line)
 
 
@@ -76,18 +76,6 @@ python.org/downloads/)  Make sure to select the option to add Python to your PAT
 * Note - normally if you want to install a single pacakge you do with this statement. the command above lets you install everything in a .txt file at once
 ``` python3 -m pip install <package_name> ```
 
-
-## Dependencies / Requirements
-1. Download & Install the [latest Python Release](https://www.python.org/downloads/) that is compatible with your Operating System
-2. Download & Install Visual Studio Code ('VS Code')
-
-## Code blocks
-```
-this is where code goes
-
-
-* Install pip 
-* Add an example .csv in the directory 
-* Add 'add code extention'
-* Show an example of opening a file with 'code xxx'
-```
+# Step 9: Open  the example_notebook.ipynb (in VS Code) and install the requisite jupyter extension in VS code
+* in VS code install the 'jupyter' extension
+* Open the file 'example_notebook.ipynb' - there are some instructions inside that, try to run the cells - this will read in an example datasets
