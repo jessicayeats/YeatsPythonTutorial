@@ -2,3 +2,28 @@ pandas
 numpy
 openai
 requests 
+matplotlib
+seaborn
+shap
+xgboost
+statsmodels
+sklearn 
+
+
+# Geospatial and Mapping 
+geopandas
+descartes
+pycrs
+folium
+ipyleaflet
+bqplot
+shapely
+censusdata
+# uszipcode
+
+# Google / google connect
+gspread
+
+# AWS and Data Storage
+boto3
+s3fs
